@@ -1,0 +1,5 @@
+{
+    "yaml.schemas": {
+        "kubernetes://schema/apps/v1@deployment": "file:///Users/domingues/Desktop/maratona-devops-ia/00-exemplo-deploy/deployment.yaml"
+    }
+}
